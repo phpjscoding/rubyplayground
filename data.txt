@@ -1,0 +1,2 @@
+first line with f . puts method
+second line with f write methodthird line with f write method
